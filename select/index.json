@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "青空が違う",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2026-03-03T13:54:27.726934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青空が違う",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_青空が違う_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青空が違う",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/02_青空が違う_Sakurazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青空が違う",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_青空が違う_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青空が違う",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_02_青空が違う_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "青空が違う",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_03_青空が違う_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "青空が違う",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_04_青空が違う_欅坂46.txt"
+    }
+  ]
+}
